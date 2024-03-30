@@ -1,10 +1,10 @@
 import { useState } from 'react'
-import Punto3 from "./Punto3/Punto3"
+import Usuarios from "./Usuarios"
 
 function App() {
   
   return (
-    <Punto3/>
+    <Usuarios/>
   )
 }
 
